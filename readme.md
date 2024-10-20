@@ -47,7 +47,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@kondajji] 
+Created by @kondajji
 
 
 <!-- Optional -->
