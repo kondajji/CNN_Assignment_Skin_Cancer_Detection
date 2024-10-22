@@ -1,5 +1,5 @@
 # Project Name
-> To build a multiclass classification model using a custom convolutional neural network in TensorFlow. 
+To build a multiclass classification model using a custom convolutional neural network in TensorFlow. 
 
 ## Table of Contents
 * [General Info](#general-information)
